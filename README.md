@@ -1,7 +1,7 @@
 ## Hello!
 
 ```
-const = Ethan {
+const Ethan = {
 Code: [Javascript, Python, CSS, HTML],
 Tools: [React, Node, MongoDB, Heroku, Express],
 ChallengesForMe: #100DaysOfCode
